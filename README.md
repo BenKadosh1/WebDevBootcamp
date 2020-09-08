@@ -1,6 +1,6 @@
 # WebDevBootcamp
 
-The folders seen here are a large portion of the work I did while going through "The Web Developer Bootcamp" course offered by Colt Steele on Udemy. 
+The folders seen here are a large portion of the work I did while going through "The Web Developer Bootcamp" course offered by Colt Steele on Udemy. The capstone project YelpCamp can be accessed through this folder.
 
 [Course Link](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
